@@ -1,0 +1,7 @@
+"I want to create a professional 'popup lock window' with using AI. Please give me a prompt to create it professionally." 
+
+Create it with html css javascript and other codes. Write all the codes together in one box.
+
+"I want to create a professional 'popup lock window' with html css and javascript using AI. Please give me a prompt to create it professionally." 
+
+Now, create a "Calculator" using HTML, CSS, JavaScript, and other code. Add more functional features to this tool and incorporate the best theme or UI. Write all the codes together in one box.
