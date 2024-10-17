@@ -14,4 +14,160 @@
         "url": "https://www.linkedin.com/in/yourprofile",
         "icon": "https://www.linkedin.com/favicon.ico"
     }
+
+
+
+
+
+
+    {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/yourprofile",
+        "icon": "https://www.instagram.com/favicon.ico"
+    },
+    {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/user/yourprofile",
+        "icon": "https://www.youtube.com/favicon.ico"
+    },
+    {
+        "name": "Pinterest",
+        "url": "https://www.pinterest.com/yourprofile",
+        "icon": "https://www.pinterest.com/favicon.ico"
+    },
+    {
+        "name": "Snapchat",
+        "url": "https://www.snapchat.com/add/yourprofile",
+        "icon": "https://www.snapchat.com/favicon.ico"
+    },
+    {
+        "name": "Reddit",
+        "url": "https://www.reddit.com/user/yourprofile",
+        "icon": "https://www.reddit.com/favicon.ico"
+    },
+    {
+        "name": "Tumblr",
+        "url": "https://yourprofile.tumblr.com",
+        "icon": "https://www.tumblr.com/favicon.ico"
+    },
+    {
+        "name": "TikTok",
+        "url": "https://www.tiktok.com/@yourprofile",
+        "icon": "https://www.tiktok.com/favicon.ico"
+    },
+    {
+        "name": "WhatsApp",
+        "url": "https://wa.me/yourprofile",
+        "icon": "https://www.whatsapp.com/favicon.ico"
+    },
+    {
+        "name": "Discord",
+        "url": "https://discord.com/users/yourprofile",
+        "icon": "https://discord.com/favicon.ico"
+    },
+    {
+        "name": "GitHub",
+        "url": "https://github.com/yourprofile",
+        "icon": "https://github.com/favicon.ico"
+    },
+    {
+        "name": "Medium",
+        "url": "https://medium.com/@yourprofile",
+        "icon": "https://medium.com/favicon.ico"
+    },
+    {
+        "name": "Quora",
+        "url": "https://www.quora.com/profile/yourprofile",
+        "icon": "https://www.quora.com/favicon.ico"
+    },
+    {
+        "name": "Telegram",
+        "url": "https://t.me/yourprofile",
+        "icon": "https://telegram.org/favicon.ico"
+    },
+    {
+        "name": "Vimeo",
+        "url": "https://vimeo.com/yourprofile",
+        "icon": "https://vimeo.com/favicon.ico"
+    },
+    {
+        "name": "Flickr",
+        "url": "https://www.flickr.com/photos/yourprofile",
+        "icon": "https://www.flickr.com/favicon.ico"
+    },
+    {
+        "name": "SoundCloud",
+        "url": "https://soundcloud.com/yourprofile",
+        "icon": "https://soundcloud.com/favicon.ico"
+    },
+    {
+        "name": "Spotify",
+        "url": "https://open.spotify.com/user/yourprofile",
+        "icon": "https://www.spotify.com/favicon.ico"
+    },
+    {
+        "name": "Dribbble",
+        "url": "https://dribbble.com/yourprofile",
+        "icon": "https://dribbble.com/favicon.ico"
+    },
+    {
+        "name": "Behance",
+        "url": "https://www.behance.net/yourprofile",
+        "icon": "https://www.behance.net/favicon.ico"
+    },
+    {
+        "name": "DeviantArt",
+        "url": "https://www.deviantart.com/yourprofile",
+        "icon": "https://www.deviantart.com/favicon.ico"
+    },
+    {
+        "name": "Blogger",
+        "url": "https://yourprofile.blogspot.com",
+        "icon": "https://www.blogger.com/favicon.ico"
+    },
+    {
+        "name": "WordPress",
+        "url": "https://yourprofile.wordpress.com",
+        "icon": "https://wordpress.com/favicon.ico"
+    },
+    {
+        "name": "Twitch",
+        "url": "https://www.twitch.tv/yourprofile",
+        "icon": "https://www.twitch.tv/favicon.ico"
+    },
+    {
+        "name": "WeChat",
+        "url": "https://yourprofile.wechat.com",
+        "icon": "https://www.wechat.com/favicon.ico"
+    },
+    {
+        "name": "Slack",
+        "url": "https://yourprofile.slack.com",
+        "icon": "https://slack.com/favicon.ico"
+    },
+    {
+        "name": "Patreon",
+        "url": "https://www.patreon.com/yourprofile",
+        "icon": "https://www.patreon.com/favicon.ico"
+    },
+    {
+        "name": "Meetup",
+        "url": "https://www.meetup.com/members/yourprofile",
+        "icon": "https://www.meetup.com/favicon.ico"
+    },
+    {
+        "name": "Xing",
+        "url": "https://www.xing.com/profile/yourprofile",
+        "icon": "https://www.xing.com/favicon.ico"
+    },
+    {
+        "name": "ResearchGate",
+        "url": "https://www.researchgate.net/profile/yourprofile",
+        "icon": "https://www.researchgate.net/favicon.ico"
+    },
+    {
+        "name": "Goodreads",
+        "url": "https://www.goodreads.com/user/show/yourprofile",
+        "icon": "https://www.goodreads.com/favicon.ico"
+    }
 ]
