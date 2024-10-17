@@ -1,5 +1,3 @@
-
-
 [
     {
         "name": "Facebook",
@@ -431,7 +429,400 @@
         "name": "Saarc Chamber",
         "url": "https://www.saarcchamber.org",
         "icon": "https://www.saarcchamber.org/favicon.ico"
-    }
-
+    },
     
+     {
+        "name": "Blogger",
+        "url": "https://www.blogger.com",
+        "icon": "https://www.blogger.com/favicon.ico"
+    },
+    {
+        "name": "Google Drive",
+        "url": "https://drive.google.com",
+        "icon": "https://www.google.com/favicon.ico"
+    },
+    {
+        "name": "Google Maps",
+        "url": "https://www.google.com/maps",
+        "icon": "https://www.google.com/favicon.ico"
+    },
+    {
+        "name": "YouTube",
+        "url": "https://www.youtube.com",
+        "icon": "https://www.youtube.com/favicon.ico"
+    },
+    {
+        "name": "Google Photos",
+        "url": "https://photos.google.com",
+        "icon": "https://www.google.com/favicon.ico"
+    },
+    {
+        "name": "Google Meet",
+        "url": "https://meet.google.com",
+        "icon": "https://www.google.com/favicon.ico"
+    },
+    {
+        "name": "Google Classroom",
+        "url": "https://classroom.google.com",
+        "icon": "https://www.google.com/favicon.ico"
+    },
+    {
+        "name": "Google Calendar",
+        "url": "https://calendar.google.com",
+        "icon": "https://www.google.com/favicon.ico"
+    },
+    {
+        "name": "Google Play",
+        "url": "https://play.google.com",
+        "icon": "https://play.google.com/favicon.ico"
+    },
+    {
+        "name": "Google Sites",
+        "url": "https://sites.google.com",
+        "icon": "https://www.google.com/favicon.ico"
+    },
+    {
+        "name": "Google News",
+        "url": "https://news.google.com",
+        "icon": "https://news.google.com/favicon.ico"
+    },
+    {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com",
+        "icon": "https://scholar.google.com/favicon.ico"
+    },
+    {
+        "name": "Google Translate",
+        "url": "https://translate.google.com",
+        "icon": "https://translate.google.com/favicon.ico"
+    },
+    {
+        "name": "Google Keep",
+        "url": "https://keep.google.com",
+        "icon": "https://keep.google.com/favicon.ico"
+    },
+    {
+        "name": "Google Hangouts",
+        "url": "https://hangouts.google.com",
+        "icon": "https://hangouts.google.com/favicon.ico"
+    },
+    {
+        "name": "Google Ads",
+        "url": "https://ads.google.com",
+        "icon": "https://ads.google.com/favicon.ico"
+    },
+    {
+        "name": "GitHub",
+        "url": "https://github.com",
+        "icon": "https://github.com/favicon.ico"
+    },
+    {
+        "name": "GitLab",
+        "url": "https://gitlab.com",
+        "icon": "https://gitlab.com/favicon.ico"
+    },
+    {
+        "name": "Bitbucket",
+        "url": "https://bitbucket.org",
+        "icon": "https://bitbucket.org/favicon.ico"
+    },
+    {
+        "name": "SourceForge",
+        "url": "https://sourceforge.net",
+        "icon": "https://sourceforge.net/favicon.ico"
+    },
+    {
+        "name": "Gitee",
+        "url": "https://gitee.com",
+        "icon": "https://gitee.com/favicon.ico"
+    },
+    {
+        "name": "Launchpad",
+        "url": "https://launchpad.net",
+        "icon": "https://launchpad.net/favicon.ico"
+    },
+    {
+        "name": "Assembla",
+        "url": "https://www.assembla.com",
+        "icon": "https://www.assembla.com/favicon.ico"
+    },
+    {
+        "name": "Beanstalk",
+        "url": "https://beanstalkapp.com",
+        "icon": "https://beanstalkapp.com/favicon.ico"
+    },
+    {
+        "name": "Phabricator",
+        "url": "https://phacility.com/phabricator/",
+        "icon": "https://phacility.com/phabricator/favicon.ico"
+    },
+    {
+        "name": "Codeberg",
+        "url": "https://codeberg.org",
+        "icon": "https://codeberg.org/favicon.ico"
+    },
+    {
+        "name": "Gogs",
+        "url": "https://gogs.io",
+        "icon": "https://gogs.io/favicon.ico"
+    },
+    {
+        "name": "Gitea",
+        "url": "https://gitea.io",
+        "icon": "https://gitea.io/favicon.ico"
+    },
+    {
+        "name": "Savannah",
+        "url": "https://savannah.gnu.org",
+        "icon": "https://savannah.gnu.org/favicon.ico"
+    },
+    {
+        "name": "Launchpad",
+        "url": "https://launchpad.net",
+        "icon": "https://launchpad.net/favicon.ico"
+    },
+    {
+        "name": "CodeCommit",
+        "url": "https://aws.amazon.com/codecommit/",
+        "icon": "https://aws.amazon.com/favicon.ico"
+    },
+    {
+        "name": "SourceHut",
+        "url": "https://sourcehut.org",
+        "icon": "https://sourcehut.org/favicon.ico"
+    },
+    {
+        "name": "NotABug",
+        "url": "https://notabug.org",
+        "icon": "https://notabug.org/favicon.ico"
+    },
+    {
+        "name": "Allura",
+        "url": "https://allura.apache.org",
+        "icon": "https://allura.apache.org/favicon.ico"
+    },
+    {
+        "name": "Fossil",
+        "url": "https://fossil-scm.org",
+        "icon": "https://fossil-scm.org/favicon.ico"
+    },
+    {
+        "name": "Kiln",
+        "url": "https://www.fogcreek.com/kiln/",
+        "icon": "https://www.fogcreek.com/kiln/favicon.ico"
+    },
+
+    {
+        "name": "Netlify",
+        "url": "https://www.netlify.com",
+        "icon": "https://www.netlify.com/favicon.ico"
+    },
+    {
+        "name": "Vercel",
+        "url": "https://vercel.com",
+        "icon": "https://vercel.com/favicon.ico"
+    },
+    {
+        "name": "Heroku",
+        "url": "https://www.heroku.com",
+        "icon": "https://www.heroku.com/favicon.ico"
+    },
+    {
+        "name": "Firebase Hosting",
+        "url": "https://firebase.google.com/docs/hosting",
+        "icon": "https://firebase.google.com/favicon.ico"
+    },
+    {
+        "name": "GitHub Pages",
+        "url": "https://pages.github.com",
+        "icon": "https://pages.github.com/favicon.ico"
+    },
+    {
+        "name": "Surge",
+        "url": "https://surge.sh",
+        "icon": "https://surge.sh/favicon.ico"
+    },
+    {
+        "name": "Render",
+        "url": "https://render.com",
+        "icon": "https://render.com/favicon.ico"
+    },
+    {
+        "name": "DigitalOcean App Platform",
+        "url": "https://www.digitalocean.com/products/app-platform/",
+        "icon": "https://www.digitalocean.com/favicon.ico"
+    },
+    {
+        "name": "AWS Amplify",
+        "url": "https://aws.amazon.com/amplify/",
+        "icon": "https://aws.amazon.com/favicon.ico"
+    },
+    {
+        "name": "Cloudflare Pages",
+        "url": "https://pages.cloudflare.com",
+        "icon": "https://pages.cloudflare.com/favicon.ico"
+    },
+    {
+        "name": "Glitch",
+        "url": "https://glitch.com",
+        "icon": "https://glitch.com/favicon.ico"
+    },
+    {
+        "name": "CodeSandbox",
+        "url": "https://codesandbox.io",
+        "icon": "https://codesandbox.io/favicon.ico"
+    },
+    {
+        "name": "Replit",
+        "url": "https://replit.com",
+        "icon": "https://replit.com/favicon.ico"
+    },
+    {
+        "name": "AppFog",
+        "url": "https://www.appfog.com",
+        "icon": "https://www.appfog.com/favicon.ico"
+    },
+    {
+        "name": "Jelastic",
+        "url": "https://jelastic.com",
+        "icon": "https://jelastic.com/favicon.ico"
+    },
+    {
+        "name": "Azure Static Web Apps",
+        "url": "https://azure.microsoft.com/en-us/services/app-service/static/",
+        "icon": "https://azure.microsoft.com/favicon.ico"
+    },
+    {
+        "name": "Static.site",
+        "url": "https://static.site",
+        "icon": "https://static.site/favicon.ico"
+    },
+    {
+        "name": "SiteNet",
+        "url": "https://sitenet.com",
+        "icon": "https://sitenet.com/favicon.ico"
+    },
+    {
+        "name": "Now.sh",
+        "url": "https://zeit.co/now",
+        "icon": "https://zeit.co/favicon.ico"
+    },
+    {
+        "name": "Hatchbox",
+        "url": "https://hatchbox.io",
+        "icon": "https://hatchbox.io/favicon.ico"
+    },
+
+    {
+        "name": "Microsoft",
+        "url": "https://www.microsoft.com",
+        "icon": "https://www.microsoft.com/favicon.ico"
+    },
+    {
+        "name": "Microsoft Office",
+        "url": "https://www.office.com",
+        "icon": "https://www.office.com/favicon.ico"
+    },
+    {
+        "name": "Microsoft Teams",
+        "url": "https://teams.microsoft.com",
+        "icon": "https://teams.microsoft.com/favicon.ico"
+    },
+    {
+        "name": "Azure",
+        "url": "https://azure.microsoft.com",
+        "icon": "https://azure.microsoft.com/favicon.ico"
+    },
+    {
+        "name": "OneDrive",
+        "url": "https://onedrive.live.com",
+        "icon": "https://onedrive.live.com/favicon.ico"
+    },
+    {
+        "name": "Microsoft Word",
+        "url": "https://www.office.com/launch/word",
+        "icon": "https://www.office.com/favicon.ico"
+    },
+    {
+        "name": "Microsoft Excel",
+        "url": "https://www.office.com/launch/excel",
+        "icon": "https://www.office.com/favicon.ico"
+    },
+    {
+        "name": "Microsoft PowerPoint",
+        "url": "https://www.office.com/launch/powerpoint",
+        "icon": "https://www.office.com/favicon.ico"
+    },
+    {
+        "name": "Visual Studio",
+        "url": "https://visualstudio.microsoft.com",
+        "icon": "https://visualstudio.microsoft.com/favicon.ico"
+    },
+    {
+        "name": "GitHub (owned by Microsoft)",
+        "url": "https://github.com",
+        "icon": "https://github.com/favicon.ico"
+    },
+    {
+        "name": "Microsoft Edge",
+        "url": "https://www.microsoft.com/edge",
+        "icon": "https://www.microsoft.com/favicon.ico"
+    },
+    {
+        "name": "Microsoft Store",
+        "url": "https://www.microsoft.com/store",
+        "icon": "https://www.microsoft.com/favicon.ico"
+    },
+    {
+        "name": "Microsoft Outlook",
+        "url": "https://outlook.live.com",
+        "icon": "https://outlook.live.com/favicon.ico"
+    },
+    {
+        "name": "Microsoft Planner",
+        "url": "https://tasks.office.com",
+        "icon": "https://tasks.office.com/favicon.ico"
+    },
+    {
+        "name": "Microsoft Exchange",
+        "url": "https://outlook.office.com/exchange",
+        "icon": "https://outlook.office.com/favicon.ico"
+    },
+    {
+        "name": "Microsoft SharePoint",
+        "url": "https://sharepoint.com",
+        "icon": "https://sharepoint.com/favicon.ico"
+    },
+    {
+        "name": "Microsoft OneNote",
+        "url": "https://www.onenote.com",
+        "icon": "https://www.onenote.com/favicon.ico"
+    },
+    {
+        "name": "Microsoft Power BI",
+        "url": "https://powerbi.microsoft.com",
+        "icon": "https://powerbi.microsoft.com/favicon.ico"
+    },
+    {
+        "name": "Microsoft Flow (Power Automate)",
+        "url": "https://flow.microsoft.com",
+        "icon": "https://flow.microsoft.com/favicon.ico"
+    },
+    {
+        "name": "Microsoft Dynamics 365",
+        "url": "https://dynamics.microsoft.com",
+        "icon": "https://dynamics.microsoft.com/favicon.ico"
+    },
+    {
+        "name": "Windows",
+        "url": "https://www.microsoft.com/windows",
+        "icon": "https://www.microsoft.com/favicon.ico"
+    },
+    {
+        "name": "Microsoft Learn",
+        "url": "https://learn.microsoft.com",
+        "icon": "https://learn.microsoft.com/favicon.ico"
+    }
 ]
+
+
