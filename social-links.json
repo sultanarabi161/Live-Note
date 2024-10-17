@@ -1,3 +1,5 @@
+
+
 [
     {
         "name": "Facebook",
@@ -263,5 +265,173 @@
         "name": "Skype",
         "url": "https://www.skype.com",
         "icon": "https://www.skype.com/favicon.ico"
+    },
+    {
+        "name": "Bikroy",
+        "url": "https://bikroy.com",
+        "icon": "https://bikroy.com/favicon.ico"
+    },
+    {
+        "name": "Daraz",
+        "url": "https://daraz.com.bd",
+        "icon": "https://daraz.com.bd/favicon.ico"
+    },
+    {
+        "name": "Chaldal",
+        "url": "https://chaldal.com",
+        "icon": "https://chaldal.com/favicon.ico"
+    },
+    {
+        "name": "BanglaLink",
+        "url": "https://www.banglalink.net",
+        "icon": "https://www.banglalink.net/favicon.ico"
+    },
+    {
+        "name": "Grameenphone",
+        "url": "https://www.grameenphone.com",
+        "icon": "https://www.grameenphone.com/favicon.ico"
+    },
+    {
+        "name": "Robi",
+        "url": "https://www.robi.com.bd",
+        "icon": "https://www.robi.com.bd/favicon.ico"
+    },
+    {
+        "name": "Airtel",
+        "url": "https://www.airtel.com.bd",
+        "icon": "https://www.airtel.com.bd/favicon.ico"
+    },
+    {
+        "name": "FoodPanda",
+        "url": "https://www.foodpanda.com.bd",
+        "icon": "https://www.foodpanda.com.bd/favicon.ico"
+    },
+    {
+        "name": "Pathao",
+        "url": "https://pathao.com",
+        "icon": "https://pathao.com/favicon.ico"
+    },
+    {
+        "name": "Uber",
+        "url": "https://www.uber.com",
+        "icon": "https://www.uber.com/favicon.ico"
+    },
+    {
+        "name": "Careem",
+        "url": "https://www.careem.com",
+        "icon": "https://www.careem.com/favicon.ico"
+    },
+    {
+        "name": "Saarc Travel",
+        "url": "https://www.saarctravel.com",
+        "icon": "https://www.saarctravel.com/favicon.ico"
+    },
+
+    {
+        "name": "Bikroy",
+        "url": "https://bikroy.com",
+        "icon": "https://bikroy.com/favicon.ico"
+    },
+    {
+        "name": "Daraz",
+        "url": "https://daraz.com.bd",
+        "icon": "https://daraz.com.bd/favicon.ico"
+    },
+    {
+        "name": "Chaldal",
+        "url": "https://chaldal.com",
+        "icon": "https://chaldal.com/favicon.ico"
+    },
+    {
+        "name": "FoodPanda",
+        "url": "https://www.foodpanda.com.bd",
+        "icon": "https://www.foodpanda.com.bd/favicon.ico"
+    },
+    {
+        "name": "Pathao",
+        "url": "https://pathao.com",
+        "icon": "https://pathao.com/favicon.ico"
+    },
+    {
+        "name": "Uber",
+        "url": "https://www.uber.com",
+        "icon": "https://www.uber.com/favicon.ico"
+    },
+    {
+        "name": "Careem",
+        "url": "https://www.careem.com",
+        "icon": "https://www.careem.com/favicon.ico"
+    },
+    {
+        "name": "Grameenphone",
+        "url": "https://www.grameenphone.com",
+        "icon": "https://www.grameenphone.com/favicon.ico"
+    },
+    {
+        "name": "Robi",
+        "url": "https://www.robi.com.bd",
+        "icon": "https://www.robi.com.bd/favicon.ico"
+    },
+    {
+        "name": "BanglaLink",
+        "url": "https://www.banglalink.net",
+        "icon": "https://www.banglalink.net/favicon.ico"
+    },
+    {
+        "name": "Airtel",
+        "url": "https://www.airtel.com.bd",
+        "icon": "https://www.airtel.com.bd/favicon.ico"
+    },
+    {
+        "name": "Saarc Travel",
+        "url": "https://www.saarctravel.com",
+        "icon": "https://www.saarctravel.com/favicon.ico"
+    },
+    {
+        "name": "Sheba.xyz",
+        "url": "https://sheba.xyz",
+        "icon": "https://sheba.xyz/favicon.ico"
+    },
+    {
+        "name": "Chhakka.com",
+        "url": "https://chhakka.com",
+        "icon": "https://chhakka.com/favicon.ico"
+    },
+    {
+        "name": "Bashundhara Group",
+        "url": "https://www.bashundharagroup.com",
+        "icon": "https://www.bashundharagroup.com/favicon.ico"
+    },
+    {
+        "name": "Dhaka Tribune",
+        "url": "https://www.dhakatribune.com",
+        "icon": "https://www.dhakatribune.com/favicon.ico"
+    },
+    {
+        "name": "The Daily Star",
+        "url": "https://www.thedailystar.net",
+        "icon": "https://www.thedailystar.net/favicon.ico"
+    },
+    {
+        "name": "Prothom Alo",
+        "url": "https://www.prothomalo.com",
+        "icon": "https://www.prothomalo.com/favicon.ico"
+    },
+    {
+        "name": "Bangladesh Bank",
+        "url": "https://www.bb.org.bd",
+        "icon": "https://www.bb.org.bd/favicon.ico"
+    },
+    {
+        "name": "National ID",
+        "url": "https://nidw.gov.bd",
+        "icon": "https://nidw.gov.bd/favicon.ico"
+    },
+    {
+        "name": "Saarc Chamber",
+        "url": "https://www.saarcchamber.org",
+        "icon": "https://www.saarcchamber.org/favicon.ico"
     }
+
+    
 ]
