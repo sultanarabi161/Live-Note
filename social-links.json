@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/yourprofile",
+        "icon": "https://www.facebook.com/favicon.ico"
+    },
+    {
+        "name": "Twitter",
+        "url": "https://twitter.com/yourprofile",
+        "icon": "https://twitter.com/favicon.ico"
+    },
+    {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/yourprofile",
+        "icon": "https://www.linkedin.com/favicon.ico"
+    }
+]
