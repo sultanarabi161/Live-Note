@@ -1,5 +1,102 @@
+
 [
     {
+        "name": "Google",
+        "url": "https://www.google.com",
+        "icon": "https://www.google.com/favicon.ico"
+    },
+    {
+        "name": "Bing",
+        "url": "https://www.bing.com",
+        "icon": "https://www.bing.com/favicon.ico"
+    },
+    {
+        "name": "Yahoo",
+        "url": "https://www.yahoo.com",
+        "icon": "https://www.yahoo.com/favicon.ico"
+    },
+    {
+        "name": "DuckDuckGo",
+        "url": "https://www.duckduckgo.com",
+        "icon": "https://www.duckduckgo.com/favicon.ico"
+    },
+    {
+        "name": "Brave Search",
+        "url": "https://search.brave.com",
+        "icon": "https://search.brave.com/favicon.ico"
+    },
+    {
+        "name": "Ask.com",
+        "url": "https://www.ask.com",
+        "icon": "https://www.ask.com/favicon.ico"
+    },
+    {
+        "name": "AOL Search",
+        "url": "https://search.aol.com",
+        "icon": "https://search.aol.com/favicon.ico"
+    },
+    {
+        "name": "Yandex",
+        "url": "https://www.yandex.com",
+        "icon": "https://www.yandex.com/favicon.ico"
+    },
+    {
+        "name": "Startpage",
+        "url": "https://www.startpage.com",
+        "icon": "https://www.startpage.com/favicon.ico"
+    },
+    {
+        "name": "Qwant",
+        "url": "https://www.qwant.com",
+        "icon": "https://www.qwant.com/favicon.ico"
+    },
+    {
+        "name": "Ecosia",
+        "url": "https://www.ecosia.org",
+        "icon": "https://www.ecosia.org/favicon.ico"
+    },
+    {
+        "name": "Searx",
+        "url": "https://searx.me",
+        "icon": "https://searx.me/favicon.ico"
+    },
+    {
+        "name": "MetaGer",
+        "url": "https://metager.org",
+        "icon": "https://metager.org/favicon.ico"
+    },
+    {
+        "name": "WolframAlpha",
+        "url": "https://www.wolframalpha.com",
+        "icon": "https://www.wolframalpha.com/favicon.ico"
+    },
+    {
+        "name": "Gigablast",
+        "url": "https://gigablast.com",
+        "icon": "https://gigablast.com/favicon.ico"
+    },
+    {
+        "name": "Boardreader",
+        "url": "https://boardreader.com",
+        "icon": "https://boardreader.com/favicon.ico"
+    },
+    {
+        "name": "Search Encrypt",
+        "url": "https://www.searchencrypt.com",
+        "icon": "https://www.searchencrypt.com/favicon.ico"
+    },
+    {
+        "name": "Fark",
+        "url": "https://www.fark.com",
+        "icon": "https://www.fark.com/favicon.ico"
+    },
+    {
+        "name": "Yippy",
+        "url": "https://yippy.com",
+        "icon": "https://yippy.com/favicon.ico"
+    },
+
+ {
         "name": "Facebook",
         "url": "https://www.facebook.com",
         "icon": "https://www.facebook.com/favicon.ico"
