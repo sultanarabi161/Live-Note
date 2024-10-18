@@ -1,4 +1,3 @@
-
 [
     {
         "name": "Google",
@@ -1342,5 +1341,258 @@
         "name": "Tennis.com",
         "url": "https://www.tennis.com",
         "icon": "https://www.tennis.com/favicon.ico"
+    },
+
+    {
+        "name": "Spotify",
+        "url": "https://www.spotify.com",
+        "icon": "https://www.spotify.com/favicon.ico"
+    },
+    {
+        "name": "Apple Music",
+        "url": "https://music.apple.com",
+        "icon": "https://music.apple.com/favicon.ico"
+    },
+    {
+        "name": "Amazon Music",
+        "url": "https://music.amazon.com",
+        "icon": "https://music.amazon.com/favicon.ico"
+    },
+    {
+        "name": "YouTube Music",
+        "url": "https://music.youtube.com",
+        "icon": "https://music.youtube.com/favicon.ico"
+    },
+    {
+        "name": "Tidal",
+        "url": "https://tidal.com",
+        "icon": "https://tidal.com/favicon.ico"
+    },
+    {
+        "name": "Deezer",
+        "url": "https://www.deezer.com",
+        "icon": "https://www.deezer.com/favicon.ico"
+    },
+    {
+        "name": "SoundCloud",
+        "url": "https://soundcloud.com",
+        "icon": "https://soundcloud.com/favicon.ico"
+    },
+    {
+        "name": "Pandora",
+        "url": "https://www.pandora.com",
+        "icon": "https://www.pandora.com/favicon.ico"
+    },
+    {
+        "name": "iHeartRadio",
+        "url": "https://www.iheart.com",
+        "icon": "https://www.iheart.com/favicon.ico"
+    },
+    {
+        "name": "Napster",
+        "url": "https://www.napster.com",
+        "icon": "https://www.napster.com/favicon.ico"
+    },
+    {
+        "name": "Bandcamp",
+        "url": "https://bandcamp.com",
+        "icon": "https://bandcamp.com/favicon.ico"
+    },
+    {
+        "name": "Mixcloud",
+        "url": "https://www.mixcloud.com",
+        "icon": "https://www.mixcloud.com/favicon.ico"
+    },
+    {
+        "name": "8tracks",
+        "url": "https://8tracks.com",
+        "icon": "https://8tracks.com/favicon.ico"
+    },
+    {
+        "name": "JioSaavn",
+        "url": "https://www.jiosaavn.com",
+        "icon": "https://www.jiosaavn.com/favicon.ico"
+    },
+    {
+        "name": "Gaana",
+        "url": "https://gaana.com",
+        "icon": "https://gaana.com/favicon.ico"
+    },
+    {
+        "name": "Shazam",
+        "url": "https://www.shazam.com",
+        "icon": "https://www.shazam.com/favicon.ico"
+    },
+    {
+        "name": "Soundtrap",
+        "url": "https://www.soundtrap.com",
+        "icon": "https://www.soundtrap.com/favicon.ico"
+    },
+    {
+        "name": "Audiomack",
+        "url": "https://www.audiomack.com",
+        "icon": "https://www.audiomack.com/favicon.ico"
+    },
+
+    {
+        "name": "BDNews24",
+        "url": "https://www.bdnews24.com",
+        "icon": "https://www.bdnews24.com/favicon.ico"
+    },
+    {
+        "name": "The Daily Star",
+        "url": "https://www.thedailystar.net",
+        "icon": "https://www.thedailystar.net/favicon.ico"
+    },
+    {
+        "name": "Prothom Alo",
+        "url": "https://www.prothomalo.com",
+        "icon": "https://www.prothomalo.com/favicon.ico"
+    },
+    {
+        "name": "Dhaka Tribune",
+        "url": "https://www.dhakatribune.com",
+        "icon": "https://www.dhakatribune.com/favicon.ico"
+    },
+    {
+        "name": "Bangladesh Pratidin",
+        "url": "https://www.bd-pratidin.com",
+        "icon": "https://www.bd-pratidin.com/favicon.ico"
+    },
+    {
+        "name": "New Age",
+        "url": "https://www.newagebd.net",
+        "icon": "https://www.newagebd.net/favicon.ico"
+    },
+    {
+        "name": "The Independent",
+        "url": "https://www.theindependentbd.com",
+        "icon": "https://www.theindependentbd.com/favicon.ico"
+    },
+    {
+        "name": "Bengal News",
+        "url": "https://www.bengalnews.com",
+        "icon": "https://www.bengalnews.com/favicon.ico"
+    },
+    {
+        "name": "Kaler Kantho",
+        "url": "https://www.kalerkantho.com",
+        "icon": "https://www.kalerkantho.com/favicon.ico"
+    },
+    {
+        "name": "Bangla Tribune",
+        "url": "https://www.banglatribune.com",
+        "icon": "https://www.banglatribune.com/favicon.ico"
+    },
+    {
+        "name": "Dhaka Times",
+        "url": "https://www.dhakatimes24.com",
+        "icon": "https://www.dhakatimes24.com/favicon.ico"
+    },
+    {
+        "name": "Daily Sun",
+        "url": "https://www.daily-sun.com",
+        "icon": "https://www.daily-sun.com/favicon.ico"
+    },
+    {
+        "name": "Bangladesh Today",
+        "url": "https://www.bangladeshtoday.net",
+        "icon": "https://www.bangladeshtoday.net/favicon.ico"
+    },
+    {
+        "name": "Somoy News",
+        "url": "https://www.somoynews.tv",
+        "icon": "https://www.somoynews.tv/favicon.ico"
+    },
+    {
+        "name": "Channel 24",
+        "url": "https://www.channel24bd.tv",
+        "icon": "https://www.channel24bd.tv/favicon.ico"
+    },
+    {
+        "name": "News 24",
+        "url": "https://www.news24bd.tv",
+        "icon": "https://www.news24bd.tv/favicon.ico"
+    },
+
+    {
+        "name": "TechBangla",
+        "url": "https://techbangla.com",
+        "icon": "https://techbangla.com/favicon.ico"
+    },
+    {
+        "name": "TechShohor",
+        "url": "https://techshohor.com",
+        "icon": "https://techshohor.com/favicon.ico"
+    },
+    {
+        "name": "GadgetBangla",
+        "url": "https://gadgetbangla.com",
+        "icon": "https://gadgetbangla.com/favicon.ico"
+    },
+    {
+        "name": "Bangladesh Tech",
+        "url": "https://www.bangladeshtech.com",
+        "icon": "https://www.bangladeshtech.com/favicon.ico"
+    },
+    {
+        "name": "BdTech",
+        "url": "https://bdtech.com",
+        "icon": "https://bdtech.com/favicon.ico"
+    },
+    {
+        "name": "TechToday",
+        "url": "https://techtoday.com.bd",
+        "icon": "https://techtoday.com.bd/favicon.ico"
+    },
+    {
+        "name": "W3Layouts",
+        "url": "https://w3layouts.com",
+        "icon": "https://w3layouts.com/favicon.ico"
+    },
+    {
+        "name": "IT News Bangladesh",
+        "url": "https://itnewsbd.com",
+        "icon": "https://itnewsbd.com/favicon.ico"
+    },
+    {
+        "name": "Bangla Tech",
+        "url": "https://banglatech.com",
+        "icon": "https://banglatech.com/favicon.ico"
+    },
+    {
+        "name": "TechBengal",
+        "url": "https://techbengal.com",
+        "icon": "https://techbengal.com/favicon.ico"
+    },
+    {
+        "name": "TechNerds",
+        "url": "https://www.techners.com",
+        "icon": "https://www.techners.com/favicon.ico"
+    },
+    {
+        "name": "How to Bangla",
+        "url": "https://howtobangla.com",
+        "icon": "https://howtobangla.com/favicon.ico"
+    },
+    {
+        "name": "BD Tech News",
+        "url": "https://bdtechnews.com",
+        "icon": "https://bdtechnews.com/favicon.ico"
+    },
+    {
+        "name": "Tech Info",
+        "url": "https://www.techinfo.com.bd",
+        "icon": "https://www.techinfo.com.bd/favicon.ico"
+    },
+    {
+        "name": "GadgetBD",
+        "url": "https://gadgetbd.com",
+        "icon": "https://gadgetbd.com/favicon.ico"
+    },
+    {
+        "name": "Tech Tips",
+        "url": "https://techtips.com.bd",
+        "icon": "https://techtips.com.bd/favicon.ico"
     }
 ]
