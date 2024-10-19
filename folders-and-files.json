@@ -1,0 +1,50 @@
+{
+  "folders": [
+    {
+      "name": "Main Folder 1",
+      "files": [
+        {
+          "name": "Portfolio",
+          "url": "https://raw.githubusercontent.com/username/repo/branch/path/to/portfolio"
+        },
+        {
+          "name": "Live Code",
+          "url": "https://raw.githubusercontent.com/username/repo/branch/path/to/live-code"
+        }
+      ],
+      "subfolders": [
+        {
+          "name": "Projects",
+          "files": [
+            {
+              "name": "Project 1",
+              "url": "https://raw.githubusercontent.com/username/repo/branch/path/to/project1"
+            },
+            {
+              "name": "Project 2",
+              "url": "https://raw.githubusercontent.com/username/repo/branch/path/to/project2"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "files": [
+            {
+              "name": "QR Code",
+              "url": "https://raw.githubusercontent.com/username/repo/branch/path/to/qrcode"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Main Folder 2",
+      "files": [
+        {
+          "name": "Blog",
+          "url": "https://raw.githubusercontent.com/username/repo/branch/path/to/blog"
+        }
+      ]
+    }
+  ]
+}
