@@ -4,12 +4,28 @@
       "name": "Main Folder 1",
       "files": [
         {
-          "name": "Portfolio",
-          "url": "https://raw.githubusercontent.com/username/repo/branch/path/to/portfolio"
+          "name": "Stream Live TV",
+          "url": "https://raw.githubusercontent.com/username/repo/branch/path/to/stream-live-tv"
         },
         {
-          "name": "Live Code",
-          "url": "https://raw.githubusercontent.com/username/repo/branch/path/to/live-code"
+          "name": "Notepad",
+          "url": "https://raw.githubusercontent.com/username/repo/branch/path/to/notepad"
+        },
+        {
+          "name": "Crackpad",
+          "url": "https://raw.githubusercontent.com/username/repo/branch/path/to/crackpad"
+        },
+        {
+          "name": "m3u to live streaming",
+          "url": "https://raw.githubusercontent.com/username/repo/branch/path/to/m3u-live-streaming"
+        },
+        {
+          "name": "Ask AI",
+          "url": "https://raw.githubusercontent.com/username/repo/branch/path/to/ask-ai"
+        },
+        {
+          "name": "Social media",
+          "url": "https://raw.githubusercontent.com/username/repo/branch/path/to/social-media"
         }
       ],
       "subfolders": [
@@ -17,14 +33,15 @@
           "name": "Projects",
           "files": [
             {
-              "name": "Project 1",
-              "url": "https://raw.githubusercontent.com/username/repo/branch/path/to/project1"
+              "name": "Portfolio",
+              "url": "https://raw.githubusercontent.com/username/repo/branch/path/to/portfolio"
             },
             {
-              "name": "Project 2",
-              "url": "https://raw.githubusercontent.com/username/repo/branch/path/to/project2"
+              "name": "Live Code",
+              "url": "https://raw.githubusercontent.com/username/repo/branch/path/to/live-code"
             }
-          ]
+          ],
+          "subfolders": []
         },
         {
           "name": "Tools",
@@ -32,19 +49,88 @@
             {
               "name": "QR Code",
               "url": "https://raw.githubusercontent.com/username/repo/branch/path/to/qrcode"
+            },
+            {
+              "name": "Project Files",
+              "url": "https://raw.githubusercontent.com/username/repo/branch/path/to/project-files"
+            },
+            {
+              "name": "Files Transfer",
+              "url": "https://raw.githubusercontent.com/username/repo/branch/path/to/files-transfer"
             }
-          ]
+          ],
+          "subfolders": []
         }
       ]
     },
     {
       "name": "Main Folder 2",
-      "files": [
+      "files": [],
+      "subfolders": [
         {
-          "name": "Blog",
-          "url": "https://raw.githubusercontent.com/username/repo/branch/path/to/blog"
+          "name": "Blog's",
+          "files": [
+            {
+              "name": "সুলতান আরাবি",
+              "url": "https://raw.githubusercontent.com/username/repo/branch/path/to/sultan-arabi"
+            },
+            {
+              "name": "কুরআন",
+              "url": "https://raw.githubusercontent.com/username/repo/branch/path/to/quran"
+            }
+          ],
+          "subfolders": []
+        },
+        {
+          "name": "Writers",
+          "files": [
+            {
+              "name": "Reports",
+              "url": "https://raw.githubusercontent.com/username/repo/branch/path/to/reports"
+            },
+            {
+              "name": "Summary",
+              "url": "https://raw.githubusercontent.com/username/repo/branch/path/to/summary"
+            }
+          ],
+          "subfolders": []
+        }
+      ]
+    },
+    {
+      "name": "Developer's",
+      "files": [],
+      "subfolders": [
+        {
+          "name": "About",
+          "files": [
+            {
+              "name": "Digital Card",
+              "url": "https://raw.githubusercontent.com/username/repo/branch/path/to/digital-card"
+            },
+            {
+              "name": "Social",
+              "url": "https://raw.githubusercontent.com/username/repo/branch/path/to/social"
+            }
+          ],
+          "subfolders": []
+        },
+        {
+          "name": "Privacy",
+          "files": [
+            {
+              "name": "List",
+              "url": "https://raw.githubusercontent.com/username/repo/branch/path/to/list"
+            },
+            {
+              "name": "Like",
+              "url": "https://raw.githubusercontent.com/username/repo/branch/path/to/like"
+            }
+          ],
+          "subfolders": []
         }
       ]
     }
   ]
 }
+
