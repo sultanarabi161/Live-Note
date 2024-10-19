@@ -1,3 +1,5 @@
+
+
 {
   "folders": [
     {
@@ -65,7 +67,20 @@
     },
     {
       "name": "Main Folder 2",
-      "files": [],
+      "files": [
+        {
+          "name": "Blog Post 1",
+          "url": "https://raw.githubusercontent.com/username/repo/branch/path/to/blog-post-1"
+        },
+        {
+          "name": "Blog Post 2",
+          "url": "https://raw.githubusercontent.com/username/repo/branch/path/to/blog-post-2"
+        },
+        {
+          "name": "Report on AI",
+          "url": "https://raw.githubusercontent.com/username/repo/branch/path/to/report-on-ai"
+        }
+      ],
       "subfolders": [
         {
           "name": "Blog's",
@@ -133,4 +148,3 @@
     }
   ]
 }
-
