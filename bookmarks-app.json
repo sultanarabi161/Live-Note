@@ -1,0 +1,19 @@
+{
+  "bookmarks": [
+    {
+      "title": "GitHub",
+      "url": "https://github.com/",
+      "category": "Development"
+    },
+    {
+      "title": "Stack Overflow",
+      "url": "https://stackoverflow.com/",
+      "category": "Development"
+    },
+    {
+      "title": "BBC News",
+      "url": "https://www.bbc.com/news",
+      "category": "News"
+    }
+  ]
+}
