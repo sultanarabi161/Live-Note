@@ -75,6 +75,18 @@
           "url": "https://raw.githubusercontent.com/username/repo/branch/path/to/blog-post-2"
         },
         {
+          "name": "Raindrop",
+          "url": "https://raw.githubusercontent.com/username/repo/branch/path/to/raindrop"
+        },
+        {
+          "name": "Public",
+          "url": "https://raw.githubusercontent.com/username/repo/branch/path/to/public"
+        },
+        {
+          "name": "Live Server",
+          "url": "https://raw.githubusercontent.com/username/repo/branch/path/to/live-server"
+        },
+        {
           "name": "Report on AI",
           "url": "https://raw.githubusercontent.com/username/repo/branch/path/to/report-on-ai"
         }
