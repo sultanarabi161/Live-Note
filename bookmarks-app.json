@@ -14,6 +14,16 @@
       "title": "BBC News",
       "url": "https://www.bbc.com/news",
       "category": "News"
+    },
+    {
+      "title": "CNN",
+      "url": "https://www.cnn.com/",
+      "category": "News"
+    },
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/",
+      "category": "Learning"
     }
   ]
 }
