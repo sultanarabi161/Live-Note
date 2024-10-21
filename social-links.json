@@ -1,8 +1,4 @@
 [
-
-
-
-
 {
   "Search Engines": [
     { "name": "Google", "url": "https://www.google.com", "icon": "https://www.google.com/favicon.ico" },
@@ -169,5 +165,4 @@
     { "name": "Tech Tips", "url": "https://techtips.com.bd", "icon": "https://techtips.com.bd/favicon.ico" }
   ]
 }
-
 ]
