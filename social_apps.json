@@ -1,0 +1,111 @@
+{
+  "social_media": {
+    "category_name": "Social Media",
+    "apps": [
+      {
+        "name": "Facebook",
+        "category": "Social Media",
+        "icon": "fab fa-facebook",
+        "color": "#1877f2",
+        "url": "https://facebook.com"
+      },
+      {
+        "name": "Instagram",
+        "category": "Social Media",
+        "icon": "fab fa-instagram",
+        "color": "#e4405f",
+        "url": "https://instagram.com"
+      },
+      {
+        "name": "Twitter",
+        "category": "Social Media",
+        "icon": "fab fa-twitter",
+        "color": "#1da1f2",
+        "url": "https://twitter.com"
+      },
+      {
+        "name": "Reddit",
+        "category": "Social Media",
+        "icon": "fab fa-reddit",
+        "color": "#ff4500",
+        "url": "https://reddit.com"
+      }
+    ]
+  },
+  "messaging": {
+    "category_name": "Messaging",
+    "apps": [
+      {
+        "name": "WhatsApp",
+        "category": "Messaging",
+        "icon": "fab fa-whatsapp",
+        "color": "#25d366",
+        "url": "https://web.whatsapp.com"
+      },
+      {
+        "name": "Telegram",
+        "category": "Messaging",
+        "icon": "fab fa-telegram",
+        "color": "#0088cc",
+        "url": "https://telegram.org"
+      },
+      {
+        "name": "Discord",
+        "category": "Messaging",
+        "icon": "fab fa-discord",
+        "color": "#5865f2",
+        "url": "https://discord.com"
+      }
+    ]
+  },
+  "professional": {
+    "category_name": "Professional",
+    "apps": [
+      {
+        "name": "LinkedIn",
+        "category": "Professional",
+        "icon": "fab fa-linkedin",
+        "color": "#0077b5",
+        "url": "https://linkedin.com"
+      }
+    ]
+  },
+  "entertainment": {
+    "category_name": "Entertainment",
+    "apps": [
+      {
+        "name": "YouTube",
+        "category": "Entertainment",
+        "icon": "fab fa-youtube",
+        "color": "#ff0000",
+        "url": "https://youtube.com"
+      },
+      {
+        "name": "TikTok",
+        "category": "Entertainment",
+        "icon": "fab fa-tiktok",
+        "color": "#000000",
+        "url": "https://tiktok.com"
+      }
+    ]
+  },
+  "photo_video": {
+    "category_name": "Photo & Video",
+    "apps": [
+      {
+        "name": "Pinterest",
+        "category": "Photo & Video",
+        "icon": "fab fa-pinterest",
+        "color": "#bd081c",
+        "url": "https://pinterest.com"
+      },
+      {
+        "name": "Snapchat",
+        "category": "Photo & Video",
+        "icon": "fab fa-snapchat",
+        "color": "#fffc00",
+        "url": "https://snapchat.com"
+      }
+    ]
+  }
+}
