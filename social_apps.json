@@ -32,6 +32,67 @@
       }
     ]
   },
+  "Web_Projects": {
+    "category_name": "Web Projects",
+    "apps": [
+      {
+        "name": "Cracker AI",
+        "category": "Personal",
+        "icon": "fas fa-brain",
+        "color": "#FF6347",
+        "url": "https://sultan-projects.netlify.app/projects/cracker-ai.html"
+      },
+      {
+        "name": "FM Radio",
+        "category": "Personal",
+        "icon": "fas fa-music",
+        "color": "#32CD32",
+        "url": "https://sultan-projects.netlify.app/projects/fm_radio.html"
+      },
+      {
+        "name": "Code Editor",
+        "category": "Personal",
+        "icon": "fas fa-code",
+        "color": "#4682B4",
+        "url": "https://sultanarabi161.github.io/live-server-/projects/code-editor.html"
+      },
+      {
+        "name": "Sultan Projects",
+        "category": "Personal",
+        "icon": "fas fa-project-diagram",
+        "color": "#FFD700",
+        "url": "https://sultan-projects.netlify.app/"
+      },
+      {
+        "name": "M3U Link Checker",
+        "category": "Personal",
+        "icon": "fas fa-link",
+        "color": "#FF4500",
+        "url": "https://sultanarabi161.github.io/live-server-/projects/m3u-link-checker.html"
+      },
+      {
+        "name": "IBN Stream",
+        "category": "Personal",
+        "icon": "fas fa-video",
+        "color": "#8A2BE2",
+        "url": "https://ibn-stream.netlify.app/"
+      },
+      {
+        "name": "Digital Card",
+        "category": "Personal",
+        "icon": "fas fa-id-card",
+        "color": "#20B2AA",
+        "url": "https://sultanarabi.netlify.app/"
+      },
+      {
+        "name": "Live Server",
+        "category": "Personal",
+        "icon": "fas fa-server",
+        "color": "#FF8C00",
+        "url": "https://cracker2161.github.io/github-live-server/"
+      }
+    ]
+  }, 
   "social_media": {
     "category_name": "Social Media",
     "apps": [
