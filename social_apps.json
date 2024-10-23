@@ -19,7 +19,7 @@
       {
         "name": "Brave",
         "category": "Search Engines",
-        "icon": "fab fa-brave",
+        "icon": "fa-brands fa-brave",
         "color": "#f4511e",
         "url": "https://brave.com"
       },
