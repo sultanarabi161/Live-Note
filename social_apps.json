@@ -43,6 +43,13 @@
         "url": "https://sultan-projects.netlify.app/projects/cracker-ai.html"
       },
       {
+        "name": "IPTV",
+        "category": "Personal",
+        "icon": "fas fa-tv",
+        "color": "#4285f4",
+        "url": "https://sultan-projects.netlify.app/projects/iptv.html"
+      },
+      {
         "name": "FM Radio",
         "category": "Personal",
         "icon": "fas fa-music",
