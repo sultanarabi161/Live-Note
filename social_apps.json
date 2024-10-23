@@ -52,7 +52,7 @@
       {
         "name": "Twitter",
         "category": "Social Media",
-        "icon": "fab fa-twitter",
+        "icon": "fa-x-twitter",
         "color": "#1da1f2",
         "url": "https://twitter.com"
       },
