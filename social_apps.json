@@ -21,14 +21,14 @@
         "category": "Search Engines",
         "icon": "fa-brands fa-brave",
         "color": "#f4511e",
-        "url": "https://brave.com"
+        "url": "https://search.brave.com"
       },
       {
         "name": "Yahoo",
         "category": "Search Engines",
         "icon": "fab fa-yahoo",
         "color": "#410093",
-        "url": "https://yahoo.com"
+        "url": "https://search.yahoo.com"
       }
     ]
   },
@@ -89,7 +89,7 @@
         "category": "Social Media",
         "icon": "fab fa-quora",
         "color": "#b92b27",
-        "url": "https://quora.com"
+        "url": "https://bn.quora.com"
       },
       {
         "name": "Flickr",
@@ -131,7 +131,7 @@
         "category": "Social Media",
         "icon": "fab fa-telegram",
         "color": "#0088cc",
-        "url": "https://telegram.org"
+        "url": "https://web.telegram.org"
       },
       {
         "name": "Imo",
@@ -171,7 +171,7 @@
         "category": "Artificial Intelligence",
         "icon": "fab fa-openai",
         "color": "#ffffff",
-        "url": "https://chat.openai.com"
+        "url": "https://chatgpt.com"
       },
       {
         "name": "OpenAI",
@@ -220,7 +220,7 @@
         "category": "Artificial Intelligence",
         "icon": "fas fa-robot",
         "color": "#00aaff",
-        "url": "https://gemini.com"
+        "url": "https://gemini.google.com"
       },
       {
         "name": "Claude",
@@ -234,7 +234,7 @@
         "category": "Artificial Intelligence",
         "icon": "fas fa-code",
         "color": "#1e90ff",
-        "url": "https://github.com/features/copilot"
+        "url": "https://copilot.microsoft.com"
       },
       {
         "name": "Grammarly",
@@ -376,6 +376,13 @@
         "url": "https://translate.google.com"
       },
       {
+        "name": "Font Awesome",
+        "category": "Tools",
+        "icon": "fa-brands fa-font-awesome",
+        "color": "#f6f6f6",
+        "url": "https://fontawesome.com/icons"
+      },
+      {
         "name": "Simplenote",
         "category": "Tools",
         "icon": "fab fa-simplenote",
@@ -394,7 +401,7 @@
         "category": "Tools",
         "icon": "fas fa-download",
         "color": "#007bff",
-        "url": "https://youtubedownloader.com"
+        "url": "https://y2meta.tube"
       }
     ]
   },
@@ -423,11 +430,11 @@
         "url": "https://tanzil.net"
       },
       {
-        "name": "Holy Quran",
+        "name": "Surah Quran",
         "category": "Reading Sites",
-        "icon": "fas fa-book",
+        "icon": "fa-solid fa-book-quran",
         "color": "#007bff",
-        "url": "https://quran.com"
+        "url": "https://surahquran.com"
       },
       {
         "name": "Muslim Bangla",
