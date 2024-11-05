@@ -57,6 +57,13 @@
         "url": "https://sultan-projects.netlify.app/projects/fm_radio.html"
       },
       {
+        "name": "Simple Note",
+        "category": "Personal",
+        "icon": "fas fa-edit",
+        "color": "#FF6347",
+        "url": "https://sultan-projects.netlify.app/projects/cracker-ai.html"
+      },
+      {
         "name": "Code Editor",
         "category": "Personal",
         "icon": "fas fa-code",
