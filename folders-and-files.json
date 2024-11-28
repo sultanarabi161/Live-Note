@@ -76,6 +76,52 @@
             }
           ],
           "subfolders": []
+        },
+        {
+          "name": "IPTV",
+          "files": [
+            {
+              "name": "Channel 1",
+              "url": "https://example.com/channel1"
+            },
+            {
+              "name": "Channel 2",
+              "url": "https://example.com/channel2"
+            },
+            {
+              "name": "Channel 3",
+              "url": "https://example.com/channel3"
+            },
+            {
+              "name": "Channel 4",
+              "url": "https://example.com/channel4"
+            },
+            {
+              "name": "Channel 5",
+              "url": "https://example.com/channel5"
+            },
+            {
+              "name": "Channel 6",
+              "url": "https://example.com/channel6"
+            },
+            {
+              "name": "Channel 7",
+              "url": "https://example.com/channel7"
+            },
+            {
+              "name": "Channel 8",
+              "url": "https://example.com/channel8"
+            },
+            {
+              "name": "Channel 9",
+              "url": "https://example.com/channel9"
+            },
+            {
+              "name": "Channel 10",
+              "url": "https://example.com/channel10"
+            }
+          ],
+          "subfolders": []
         }
       ]
     },
