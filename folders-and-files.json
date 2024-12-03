@@ -12,6 +12,10 @@
           "url": "https://sultan-projects.netlify.app/projects/fm_radio.html"
         },
         {
+              "name": "video player",
+              "url": "https://sultanarabi161.github.io/live-server/projects/professional_video_player_0.2.html"
+        },
+        {
           "name": "Notepad",
           "url": "https://sultan-projects.netlify.app/projects/sync-channel.html"
         },
@@ -44,6 +48,10 @@
           "url": "https://sultan-projects.netlify.app/projects/cracker-ai.html"
         },
         {
+              "name": "Live Code",
+              "url": "https://sultanarabi161.github.io/live-server-/projects/code-editor.html"
+        },
+        {
           "name": "Social media",
           "url": "https://sultan-projects.netlify.app/social-media.html"
         }
@@ -55,11 +63,7 @@
             {
               "name": "Portfolio",
               "url": "https://sultanarabi-portfolio.netlify.app/"
-            },
-            {
-              "name": "Live Code",
-              "url": "https://sultanarabi161.github.io/live-server-/projects/code-editor.html"
-            }
+            }, 
           ],
           "subfolders": []
         },
@@ -69,11 +73,7 @@
             {
               "name": "QR Code",
               "url": "https://example.com/qrcode"
-            },
-            {
-              "name": "video player",
-              "url": "https://sultanarabi161.github.io/live-server/projects/professional_video_player_0.2.html"
-            },
+            }, 
             {
               "name": "Project Files",
               "url": "https://example.com/project"
