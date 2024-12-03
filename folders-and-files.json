@@ -4,16 +4,16 @@
       "name": "Streaming",
       "files": [
         {
-          "name": "Stream Live TV",
-          "url": "https://ibn-stream.netlify.app/"
-        },
-        {
-          "name": "M3U Playlist Checker",
+          "name": "Simple Player",
           "url": "https://sultanarabi161.github.io/live-server/projects/TV_Player.html"
         },
         {
-          "name": "Simple Player",
+          "name": "M3U Playlist Checker",
           "url": "https://sultanarabi161.github.io/live-server/projects/M3U_Playlist_Checker.html"
+        },
+        {
+          "name": "Sync Channels",
+          "url": "https://sultan-projects.netlify.app/projects/sync-channel.html"
         },
         {
           "name": "M3U to Live Streaming",
@@ -62,13 +62,14 @@
           "url": "https://sultan-projects.netlify.app/projects/sync-channel.html"
         },
         {
-          "name": "Sync Channels",
-          "url": "https://sultan-projects.netlify.app/projects/sync-channel.html"
-        },
-        {
           "name": "Live Code",
           "url": "https://sultanarabi161.github.io/live-server-/projects/code-editor.html"
+        },
+        {
+          "name": "Live Server",
+          "url": "https://cracker2161.github.io/github-live-server/"
         }
+        
       ],
       "subfolders": []
     },
@@ -92,11 +93,7 @@
         {
           "name": "Portfolio",
           "url": "https://sultanarabi-portfolio.netlify.app/"
-        },
-        {
-          "name": "Live Server",
-          "url": "https://cracker2161.github.io/github-live-server/"
-        }
+        }  
       ],
       "subfolders": []
     },
@@ -165,8 +162,8 @@
       "name": "IPTV Channels",
       "files": [
         {
-          "name": "Channel 1",
-          "url": "https://example.com/channel1"
+          "name": "Stream Live TV",
+          "url": "https://ibn-stream.netlify.app/"
         },
         {
           "name": "Channel 2",
