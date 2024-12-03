@@ -16,6 +16,10 @@
           "url": "https://sultan-projects.netlify.app/projects/sync-channel.html"
         },
         {
+          "name": "M3U Playlist Manager Pro",
+          "url": "https://projects-media.vercel.app/projects/iptv/M3U%20Playlist%20Manager.html"
+        },
+        {
           "name": "M3U to Live Streaming",
           "url": "https://sultanarabi161.github.io/live-server-/projects/m3u-link-checker.html"
         }
@@ -51,7 +55,8 @@
       "subfolders": []
     },
     {
-      "name": "Productivity Tools",
+      "name": "Productivity Tools",  
+
       "files": [
         {
           "name": "Crackpad",
@@ -61,6 +66,18 @@
           "name": "Notepad",
           "url": "https://sultan-projects.netlify.app/projects/sync-channel.html"
         },
+        {
+          "name": "Orbit pad",
+          "url": "https://projects-media.vercel.app/projects/tools/Orbit_pad.html"
+        },    
+        {
+          "name": "Simple pad",
+          "url": "https://projects-media.vercel.app/projects/tools/simple_note.html"
+        },
+        {
+          "name": "Typing Test",
+          "url": "https://projects-media.vercel.app/projects/tools/Typing_Speed_Test.html"
+        }, 
         {
           "name": "Live Code",
           "url": "https://sultanarabi161.github.io/live-server-/projects/code-editor.html"
@@ -166,16 +183,16 @@
           "url": "https://ibn-stream.netlify.app/"
         },
         {
-          "name": "Channel 2",
-          "url": "https://example.com/channel2"
+          "name": "Crack TV",
+          "url": "https://projects-media.vercel.app/projects/iptv/crack_tv.html"
         },
         {
-          "name": "Channel 3",
-          "url": "https://example.com/channel3"
+          "name": "IPTV v-0.6",
+          "url": "https://projects-media.vercel.app/projects/iptv/index_v1.6.html"
         },
         {
-          "name": "Channel 4",
-          "url": "https://example.com/channel4"
+          "name": "Orbit - Old",
+          "url": "https://projects-media.vercel.app/projects/iptv/stream_orbit/index.html"
         },
         {
           "name": "Channel 5",
