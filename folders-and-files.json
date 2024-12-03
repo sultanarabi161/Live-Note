@@ -1,27 +1,11 @@
 {
   "folders": [
     {
-      "name": "Main Folder 1",
+      "name": "Streaming",
       "files": [
         {
           "name": "Stream Live TV",
           "url": "https://ibn-stream.netlify.app/"
-        },
-        {
-          "name": "Radio Station",
-          "url": "https://sultan-projects.netlify.app/projects/fm_radio.html"
-        },
-        {
-              "name": "video player",
-              "url": "https://sultanarabi161.github.io/live-server/projects/professional_video_player_0.2.html"
-        },
-        {
-          "name": "Notepad",
-          "url": "https://sultan-projects.netlify.app/projects/sync-channel.html"
-        },
-        {
-          "name": "Sync Channels",
-          "url": "https://sultan-projects.netlify.app/projects/sync-channel.html"
         },
         {
           "name": "M3U Playlist Checker",
@@ -32,13 +16,29 @@
           "url": "https://sultanarabi161.github.io/live-server/projects/M3U_Playlist_Checker.html"
         },
         {
-          "name": "Crackpad",
-          "url": "https://sultanarabi161.github.io/live-server-/projects/crackpad.html"
+          "name": "M3U to Live Streaming",
+          "url": "https://sultanarabi161.github.io/live-server-/projects/m3u-link-checker.html"
+        }
+      ],
+      "subfolders": []
+    },
+    {
+      "name": "Media Players",
+      "files": [
+        {
+          "name": "Video Player",
+          "url": "https://sultanarabi161.github.io/live-server/projects/professional_video_player_0.2.html"
         },
         {
-          "name": "m3u to live streaming",
-          "url": "https://sultanarabi161.github.io/live-server-/projects/m3u-link-checker.html"
-        },
+          "name": "Radio Station",
+          "url": "https://sultan-projects.netlify.app/projects/fm_radio.html"
+        }
+      ],
+      "subfolders": []
+    },
+    {
+      "name": "AI Tools",
+      "files": [
         {
           "name": "Ask AI",
           "url": "https://sultanarabi161.github.io/live-server-/projects/ask-ai.html"
@@ -46,95 +46,62 @@
         {
           "name": "Cracker AI",
           "url": "https://sultan-projects.netlify.app/projects/cracker-ai.html"
-        },
-        {
-              "name": "Live Code",
-              "url": "https://sultanarabi161.github.io/live-server-/projects/code-editor.html"
-        },
-        {
-          "name": "Social media",
-          "url": "https://sultan-projects.netlify.app/social-media.html"
         }
       ],
-      "subfolders": [
-        {
-          "name": "Projects",
-          "files": [
-            {
-              "name": "Portfolio",
-              "url": "https://sultanarabi-portfolio.netlify.app/"
-            }, 
-          ],
-          "subfolders": []
-        },
-        {
-          "name": "Tools",
-          "files": [
-            {
-              "name": "QR Code",
-              "url": "https://example.com/qrcode"
-            }, 
-            {
-              "name": "Project Files",
-              "url": "https://example.com/project"
-            },
-            {
-              "name": "Files Transfer",
-              "url": "https://mega.nz/filerequest/o_tYuS3sUII"
-            }
-          ],
-          "subfolders": []
-        },
-        {
-          "name": "IPTV",
-          "files": [
-            {
-              "name": "Channel 1",
-              "url": "https://example.com/channel1"
-            },
-            {
-              "name": "Channel 2",
-              "url": "https://example.com/channel2"
-            },
-            {
-              "name": "Channel 3",
-              "url": "https://example.com/channel3"
-            },
-            {
-              "name": "Channel 4",
-              "url": "https://example.com/channel4"
-            },
-            {
-              "name": "Channel 5",
-              "url": "https://example.com/channel5"
-            },
-            {
-              "name": "Channel 6",
-              "url": "https://example.com/channel6"
-            },
-            {
-              "name": "Channel 7",
-              "url": "https://example.com/channel7"
-            },
-            {
-              "name": "Channel 8",
-              "url": "https://example.com/channel8"
-            },
-            {
-              "name": "Channel 9",
-              "url": "https://example.com/channel9"
-            },
-            {
-              "name": "Channel 10",
-              "url": "https://example.com/channel10"
-            }
-          ],
-          "subfolders": []
-        }
-      ]
+      "subfolders": []
     },
     {
-      "name": "Main Folder 2",
+      "name": "Productivity Tools",
+      "files": [
+        {
+          "name": "Crackpad",
+          "url": "https://sultanarabi161.github.io/live-server-/projects/crackpad.html"
+        },
+        {
+          "name": "Notepad",
+          "url": "https://sultan-projects.netlify.app/projects/sync-channel.html"
+        },
+        {
+          "name": "Sync Channels",
+          "url": "https://sultan-projects.netlify.app/projects/sync-channel.html"
+        },
+        {
+          "name": "Live Code",
+          "url": "https://sultanarabi161.github.io/live-server-/projects/code-editor.html"
+        }
+      ],
+      "subfolders": []
+    },
+    {
+      "name": "Social Media",
+      "files": [
+        {
+          "name": "Social Media",
+          "url": "https://sultan-projects.netlify.app/social-media.html"
+        },
+        {
+          "name": "Digital Card",
+          "url": "https://sultanarabi.netlify.app/"
+        }
+      ],
+      "subfolders": []
+    },
+    {
+      "name": "Web Projects",
+      "files": [
+        {
+          "name": "Portfolio",
+          "url": "https://sultanarabi-portfolio.netlify.app/"
+        },
+        {
+          "name": "Live Server",
+          "url": "https://cracker2161.github.io/github-live-server/"
+        }
+      ],
+      "subfolders": []
+    },
+    {
+      "name": "Blogs",
       "files": [
         {
           "name": "Blog Post 1",
@@ -143,27 +110,11 @@
         {
           "name": "Blog Post 2",
           "url": "https://quran.com"
-        },
-        {
-          "name": "Raindrop",
-          "url": "https://example.com/mainfile4"
-        },
-        {
-          "name": "Public",
-          "url": "https://example.com/mainfile5"
-        },
-        {
-          "name": "Live Server",
-          "url": "https://cracker2161.github.io/github-live-server/"
-        },
-        {
-          "name": "Report on AI",
-          "url": "https://example.com/reports"
         }
       ],
       "subfolders": [
         {
-          "name": "Blog's",
+          "name": "Sub-Blogs",
           "files": [
             {
               "name": "সুলতান আরাবি",
@@ -175,56 +126,86 @@
             }
           ],
           "subfolders": []
-        },
-        {
-          "name": "Writers",
-          "files": [
-            {
-              "name": "Reports",
-              "url": "https://example.com/reports"
-            },
-            {
-              "name": "Summary",
-              "url": "https://example.com/summary"
-            }
-          ],
-          "subfolders": []
         }
       ]
     },
     {
-      "name": "Developer's",
-      "files": [],
-      "subfolders": [
+      "name": "File Management",
+      "files": [
         {
-          "name": "About",
-          "files": [
-            {
-              "name": "Digital Card",
-              "url": "https://sultanarabi.netlify.app/"
-            },
-            {
-              "name": "Social",
-              "url": "https://example.com/analysis"
-            }
-          ],
-          "subfolders": []
+          "name": "QR Code",
+          "url": "https://example.com/qrcode"
         },
         {
-          "name": "Privacy",
-          "files": [
-            {
-              "name": "List",
-              "url": "https://example.com/reports"
-            },
-            {
-              "name": "Like",
-              "url": "https://example.com/summary"
-            }
-          ],
-          "subfolders": []
+          "name": "Project Files",
+          "url": "https://example.com/project"
+        },
+        {
+          "name": "Files Transfer",
+          "url": "https://mega.nz/filerequest/o_tYuS3sUII"
         }
-      ]
+      ],
+      "subfolders": []
+    },
+    {
+      "name": "Reports & Documentation",
+      "files": [
+        {
+          "name": "Report on AI",
+          "url": "https://example.com/reports"
+        },
+        {
+          "name": "Summary",
+          "url": "https://example.com/summary"
+        }
+      ],
+      "subfolders": []
+    },
+    {
+      "name": "IPTV Channels",
+      "files": [
+        {
+          "name": "Channel 1",
+          "url": "https://example.com/channel1"
+        },
+        {
+          "name": "Channel 2",
+          "url": "https://example.com/channel2"
+        },
+        {
+          "name": "Channel 3",
+          "url": "https://example.com/channel3"
+        },
+        {
+          "name": "Channel 4",
+          "url": "https://example.com/channel4"
+        },
+        {
+          "name": "Channel 5",
+          "url": "https://example.com/channel5"
+        },
+        {
+          "name": "Channel 6",
+          "url": "https://example.com/channel6"
+        },
+        {
+          "name": "Channel 7",
+          "url": "https://example.com/channel7"
+        },
+        {
+          "name": "Channel 8",
+          "url": "https://example.com/channel8"
+        },
+        {
+          "name": "Channel 9",
+          "url": "https://example.com/channel9"
+        },
+        {
+          "name": "Channel 10",
+          "url": "https://example.com/channel10"
+        }
+      ],
+      "subfolders": []
     }
   ]
 }
