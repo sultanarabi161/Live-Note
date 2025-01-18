@@ -4,7 +4,7 @@
             "id": "bdix_tv",
             "name": "BDIX TV",
             "logo": "https://example.com/logos/bdix.png",
-            "url": "https://example.com/playlists/bdix.m3u",
+            "url": "https://raw.githubusercontent.com/johirryhan087/iptv_playlists/refs/heads/main/https_playlist.m3u",
             "category": "Bangladesh",
             "description": "BDIX TV Channels Collection"
         },
@@ -12,7 +12,7 @@
             "id": "sports_tv",
             "name": "Sports TV",
             "logo": "https://example.com/logos/sports.png",
-            "url": "https://example.com/playlists/sports.m3u",
+            "url": "https://raw.githubusercontent.com/johirryhan087/iptv_playlists/refs/heads/main/https_playlist.m3u",
             "category": "Sports",
             "description": "Sports Channels Collection"
         }
