@@ -1,0 +1,79 @@
+{
+  "profile": {
+    "name": "Sultan Muhammad Arabi",
+    "title": "Web Developer",
+    "logo_text": "SMA"
+  },
+  "social_media": [
+    {
+      "platform": "Facebook",
+      "url": "https://facebook.com/sultanarabi161",
+      "icon": "facebook-f",
+      "color": "#1877f2",
+      "category": "Social"
+    },
+    {
+      "platform": "Instagram",
+      "url": "https://instagram.com/sultanarabi161",
+      "icon": "instagram",
+      "color": "#e4405f",
+      "category": "Social"
+    },
+    {
+      "platform": "Twitter",
+      "url": "https://twitter.com/sultanarabi161",
+      "icon": "twitter",
+      "color": "#1da1f2",
+      "category": "Social"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://linkedin.com/in/sultanarabi161",
+      "icon": "linkedin-in",
+      "color": "#0077b5",
+      "category": "Professional"
+    },
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/sultanarabi161",
+      "icon": "github",
+      "color": "#333",
+      "category": "Development"
+    },
+    {
+      "platform": "YouTube",
+      "url": "https://youtube.com/@sultanarabi161",
+      "icon": "youtube",
+      "color": "#ff0000",
+      "category": "Social"
+    },
+    {
+      "platform": "Pinterest",
+      "url": "https://pinterest.com/sultanarabi161",
+      "icon": "pinterest-p",
+      "color": "#bd081c",
+      "category": "Social"
+    },
+    {
+      "platform": "Dribbble",
+      "url": "https://dribbble.com/sultanarabi161",
+      "icon": "dribbble",
+      "color": "#ea4c89",
+      "category": "Design"
+    },
+    {
+      "platform": "Behance",
+      "url": "https://behance.net/sultanarabi161",
+      "icon": "behance",
+      "color": "#1769ff",
+      "category": "Design"
+    },
+    {
+      "platform": "Telegram",
+      "url": "https://t.me/sultanarabi161",
+      "icon": "telegram-plane",
+      "color": "#0088cc",
+      "category": "Messaging"
+    }
+  ]
+}
