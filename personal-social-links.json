@@ -48,10 +48,101 @@
       "category": "Social"
     },
     {
+      "platform": "TikTok",
+      "url": "https://tiktok.com/@sultanarabi161",
+      "icon": "tiktok",
+      "color": "#000000",
+      "category": "Social"
+    },
+    {
       "platform": "Pinterest",
       "url": "https://pinterest.com/sultanarabi161",
       "icon": "pinterest-p",
       "color": "#bd081c",
+      "category": "Social"
+    },
+    {
+      "platform": "Snapchat",
+      "url": "https://snapchat.com/add/sultanarabi161",
+      "icon": "snapchat-ghost",
+      "color": "#fffc00",
+      "category": "Social"
+    },
+    {
+      "platform": "WhatsApp",
+      "url": "https://wa.me/sultanarabi161",
+      "icon": "whatsapp",
+      "color": "#25d366",
+      "category": "Messaging"
+    },
+    {
+      "platform": "Telegram",
+      "url": "https://t.me/sultanarabi161",
+      "icon": "telegram-plane",
+      "color": "#0088cc",
+      "category": "Messaging"
+    },
+    {
+      "platform": "Discord",
+      "url": "https://discord.gg/sultanarabi161",
+      "icon": "discord",
+      "color": "#7289da",
+      "category": "Gaming"
+    },
+    {
+      "platform": "Skype",
+      "url": "skype:sultanarabi161?chat",
+      "icon": "skype",
+      "color": "#00aff0",
+      "category": "Messaging"
+    },
+    {
+      "platform": "Medium",
+      "url": "https://medium.com/@sultanarabi161",
+      "icon": "medium-m",
+      "color": "#00ab6c",
+      "category": "Blogging"
+    },
+    {
+      "platform": "Dev.to",
+      "url": "https://dev.to/sultanarabi161",
+      "icon": "dev",
+      "color": "#0a0a0a",
+      "category": "Development"
+    },
+    {
+      "platform": "Stack Overflow",
+      "url": "https://stackoverflow.com/users/sultanarabi161",
+      "icon": "stack-overflow",
+      "color": "#f48024",
+      "category": "Development"
+    },
+    {
+      "platform": "GitLab",
+      "url": "https://gitlab.com/sultanarabi161",
+      "icon": "gitlab",
+      "color": "#fc6d26",
+      "category": "Development"
+    },
+    {
+      "platform": "Bitbucket",
+      "url": "https://bitbucket.org/sultanarabi161",
+      "icon": "bitbucket",
+      "color": "#0052cc",
+      "category": "Development"
+    },
+    {
+      "platform": "CodePen",
+      "url": "https://codepen.io/sultanarabi161",
+      "icon": "codepen",
+      "color": "#000000",
+      "category": "Development"
+    },
+    {
+      "platform": "Reddit",
+      "url": "https://reddit.com/user/sultanarabi161",
+      "icon": "reddit-alien",
+      "color": "#ff4500",
       "category": "Social"
     },
     {
@@ -69,11 +160,404 @@
       "category": "Design"
     },
     {
-      "platform": "Telegram",
-      "url": "https://t.me/sultanarabi161",
-      "icon": "telegram-plane",
-      "color": "#0088cc",
+      "platform": "Flickr",
+      "url": "https://www.flickr.com/photos/sultanarabi161",
+      "icon": "flickr",
+      "color": "#ff0084",
+      "category": "Photography"
+    },
+    {
+      "platform": "500px",
+      "url": "https://500px.com/sultanarabi161",
+      "icon": "500px",
+      "color": "#0099e5",
+      "category": "Photography"
+    },
+    {
+      "platform": "Vimeo",
+      "url": "https://vimeo.com/sultanarabi161",
+      "icon": "vimeo-v",
+      "color": "#1ab7ea",
+      "category": "Video"
+    },
+    {
+      "platform": "Twitch",
+      "url": "https://twitch.tv/sultanarabi161",
+      "icon": "twitch",
+      "color": "#6441a5",
+      "category": "Gaming"
+    },
+    {
+      "platform": "Steam",
+      "url": "https://steamcommunity.com/id/sultanarabi161",
+      "icon": "steam",
+      "color": "#000000",
+      "category": "Gaming"
+    },
+    {
+      "platform": "Spotify",
+      "url": "https://open.spotify.com/user/sultanarabi161",
+      "icon": "spotify",
+      "color": "#1db954",
+      "category": "Music"
+    },
+    {
+      "platform": "SoundCloud",
+      "url": "https://soundcloud.com/sultanarabi161",
+      "icon": "soundcloud",
+      "color": "#ff8800",
+      "category": "Music"
+    },
+    {
+      "platform": "Last.fm",
+      "url": "https://www.last.fm/user/sultanarabi161",
+      "icon": "lastfm",
+      "color": "#d51007",
+      "category": "Music"
+    },
+    {
+      "platform": "Quora",
+      "url": "https://www.quora.com/profile/sultanarabi161",
+      "icon": "quora",
+      "color": "#a82400",
+      "category": "Knowledge"
+    },
+    {
+      "platform": "Tumblr",
+      "url": "https://sultanarabi161.tumblr.com",
+      "icon": "tumblr",
+      "color": "#35465c",
+      "category": "Blogging"
+    },
+    {
+      "platform": "WordPress",
+      "url": "https://sultanarabi161.wordpress.com",
+      "icon": "wordpress",
+      "color": "#21759b",
+      "category": "Blogging"
+    },
+    {
+      "platform": "VK",
+      "url": "https://vk.com/sultanarabi161",
+      "icon": "vk",
+      "color": "#45668e",
+      "category": "Social"
+    },
+    {
+      "platform": "WeChat",
+      "url": "https://u.wechat.com/sultanarabi161",
+      "icon": "weixin",
+      "color": "#7bb32e",
       "category": "Messaging"
+    },
+    {
+      "platform": "LINE",
+      "url": "https://line.me/ti/p/sultanarabi161",
+      "icon": "line",
+      "color": "#00c300",
+      "category": "Messaging"
+    },
+    {
+      "platform": "Viber",
+      "url": "viber://chat?number=sultanarabi161",
+      "icon": "viber",
+      "color": "#665cac",
+      "category": "Messaging"
+    },
+    {
+      "platform": "Slack",
+      "url": "https://sultanarabi161.slack.com",
+      "icon": "slack",
+      "color": "#4a154b",
+      "category": "Business"
+    },
+    {
+      "platform": "Microsoft Teams",
+      "url": "https://teams.microsoft.com/l/chat/0/0?users=sultanarabi161",
+      "icon": "microsoft",
+      "color": "#6264a7",
+      "category": "Business"
+    },
+    {
+      "platform": "AngelList",
+      "url": "https://angel.co/u/sultanarabi161",
+      "icon": "angellist",
+      "color": "#000000",
+      "category": "Business"
+    },
+    {
+      "platform": "Crunchbase",
+      "url": "https://www.crunchbase.com/person/sultanarabi161",
+      "icon": "c",
+      "color": "#0288d1",
+      "category": "Business"
+    },
+    {
+      "platform": "Product Hunt",
+      "url": "https://www.producthunt.com/@sultanarabi161",
+      "icon": "product-hunt",
+      "color": "#da552f",
+      "category": "Business"
+    },
+    {
+      "platform": "Kaggle",
+      "url": "https://www.kaggle.com/sultanarabi161",
+      "icon": "kaggle",
+      "color": "#20beff",
+      "category": "Development"
+    },
+    {
+      "platform": "ResearchGate",
+      "url": "https://www.researchgate.net/profile/sultanarabi161",
+      "icon": "researchgate",
+      "color": "#00ccbb",
+      "category": "Academic"
+    },
+    {
+      "platform": "Google Scholar",
+      "url": "https://scholar.google.com/citations?user=sultanarabi161",
+      "icon": "google",
+      "color": "#4285f4",
+      "category": "Academic"
+    },
+    {
+      "platform": "Academia",
+      "url": "https://independent.academia.edu/sultanarabi161",
+      "icon": "a",
+      "color": "#41454a",
+      "category": "Academic"
+    },
+    {
+      "platform": "ORCID",
+      "url": "https://orcid.org/sultanarabi161",
+      "icon": "orcid",
+      "color": "#a6ce39",
+      "category": "Academic"
+    },
+    {
+      "platform": "Coursera",
+      "url": "https://www.coursera.org/user/sultanarabi161",
+      "icon": "c",
+      "color": "#0056d2",
+      "category": "Education"
+    },
+    {
+      "platform": "Udemy",
+      "url": "https://www.udemy.com/user/sultanarabi161",
+      "icon": "u",
+      "color": "#ea5252",
+      "category": "Education"
+    },
+    {
+      "platform": "HackerRank",
+      "url": "https://www.hackerrank.com/sultanarabi161",
+      "icon": "hackerrank",
+      "color": "#2ec866",
+      "category": "Development"
+    },
+    {
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/sultanarabi161",
+      "icon": "l",
+      "color": "#f89f1b",
+      "category": "Development"
+    },
+    {
+      "platform": "CodeChef",
+      "url": "https://www.codechef.com/users/sultanarabi161",
+      "icon": "code",
+      "color": "#5b4638",
+      "category": "Development"
+    },
+    {
+      "platform": "Codeforces",
+      "url": "https://codeforces.com/profile/sultanarabi161",
+      "icon": "code",
+      "color": "#1f8acb",
+      "category": "Development"
+    },
+    {
+      "platform": "HackerEarth",
+      "url": "https://www.hackerearth.com/@sultanarabi161",
+      "icon": "h",
+      "color": "#323754",
+      "category": "Development"
+    },
+    {
+      "platform": "TopCoder",
+      "url": "https://www.topcoder.com/members/sultanarabi161",
+      "icon": "t",
+      "color": "#29a7df",
+      "category": "Development"
+    },
+    {
+      "platform": "Patreon",
+      "url": "https://www.patreon.com/sultanarabi161",
+      "icon": "patreon",
+      "color": "#ff424d",
+      "category": "Crowdfunding"
+    },
+    {
+      "platform": "Buy Me a Coffee",
+      "url": "https://www.buymeacoffee.com/sultanarabi161",
+      "icon": "coffee",
+      "color": "#ffdd00",
+      "category": "Crowdfunding"
+    },
+    {
+      "platform": "Ko-fi",
+      "url": "https://ko-fi.com/sultanarabi161",
+      "icon": "k",
+      "color": "#00b9fe",
+      "category": "Crowdfunding"
+    },
+    {
+      "platform": "Gumroad",
+      "url": "https://sultanarabi161.gumroad.com",
+      "icon": "g",
+      "color": "#36a9ae",
+      "category": "Business"
+    },
+    {
+      "platform": "Yelp",
+      "url": "https://www.yelp.com/user_details?userid=sultanarabi161",
+      "icon": "yelp",
+      "color": "#af0606",
+      "category": "Business"
+    },
+    {
+      "platform": "TripAdvisor",
+      "url": "https://www.tripadvisor.com/members/sultanarabi161",
+      "icon": "tripadvisor",
+      "color": "#00af87",
+      "category": "Travel"
+    },
+    {
+      "platform": "Airbnb",
+      "url": "https://www.airbnb.com/users/show/sultanarabi161",
+      "icon": "airbnb",
+      "color": "#ff5a5f",
+      "category": "Travel"
+    },
+    {
+      "platform": "Booking.com",
+      "url": "https://www.booking.com/user/sultanarabi161",
+      "icon": "b",
+      "color": "#003580",
+      "category": "Travel"
+    },
+    {
+      "platform": "Etsy",
+      "url": "https://www.etsy.com/shop/sultanarabi161",
+      "icon": "etsy",
+      "color": "#f16521",
+      "category": "Business"
+    },
+    {
+      "platform": "Fiverr",
+      "url": "https://www.fiverr.com/sultanarabi161",
+      "icon": "f",
+      "color": "#1dbf73",
+      "category": "Freelance"
+    },
+    {
+      "platform": "Upwork",
+      "url": "https://www.upwork.com/freelancers/sultanarabi161",
+      "icon": "u",
+      "color": "#6fda44",
+      "category": "Freelance"
+    },
+    {
+      "platform": "Freelancer",
+      "url": "https://www.freelancer.com/u/sultanarabi161",
+      "icon": "f",
+      "color": "#29b2fe",
+      "category": "Freelance"
+    },
+    {
+      "platform": "DeviantArt",
+      "url": "https://www.deviantart.com/sultanarabi161",
+      "icon": "deviantart",
+      "color": "#05cc47",
+      "category": "Art"
+    },
+    {
+      "platform": "ArtStation",
+      "url": "https://www.artstation.com/sultanarabi161",
+      "icon": "a",
+      "color": "#13aff0",
+      "category": "Art"
+    },
+    {
+      "platform": "Figma",
+      "url": "https://www.figma.com/@sultanarabi161",
+      "icon": "figma",
+      "color": "#f24e1e",
+      "category": "Design"
+    },
+    {
+      "platform": "Canva",
+      "url": "https://www.canva.com/@sultanarabi161",
+      "icon": "c",
+      "color": "#00c4cc",
+      "category": "Design"
+    },
+    {
+      "platform": "Adobe Portfolio",
+      "url": "https://portfolio.adobe.com/sultanarabi161",
+      "icon": "adobe",
+      "color": "#ff0000",
+      "category": "Design"
+    },
+    {
+      "platform": "Notion",
+      "url": "https://www.notion.so/@sultanarabi161",
+      "icon": "n",
+      "color": "#000000",
+      "category": "Productivity"
+    },
+    {
+      "platform": "Evernote",
+      "url": "https://www.evernote.com/sultanarabi161",
+      "icon": "e",
+      "color": "#00a82d",
+      "category": "Productivity"
+    },
+    {
+      "platform": "Trello",
+      "url": "https://trello.com/@sultanarabi161",
+      "icon": "trello",
+      "color": "#0079bf",
+      "category": "Productivity"
+    },
+    {
+      "platform": "Asana",
+      "url": "https://app.asana.com/@sultanarabi161",
+      "icon": "a",
+      "color": "#273347",
+      "category": "Productivity"
+    },
+    {
+      "platform": "Google Developers",
+      "url": "https://developers.google.com/profile/u/sultanarabi161",
+      "icon": "google",
+      "color": "#4285f4",
+      "category": "Development"
+    },
+    {
+      "platform": "Apple Developer",
+      "url": "https://developer.apple.com/profiles/sultanarabi161",
+      "icon": "apple",
+      "color": "#000000",
+      "category": "Development"
+    },
+    {
+      "platform": "Microsoft Learn",
+      "url": "https://docs.microsoft.com/users/sultanarabi161",
+      "icon": "microsoft",
+      "color": "#00a4ef",
+      "category": "Development"
     }
   ]
 }
+
